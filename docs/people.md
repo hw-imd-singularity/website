@@ -4,7 +4,7 @@ layout: page
 title: People
 permalink: /people/
 ---
-<link rel="stylesheet" href="../assets/css/style.css">
+<link rel="stylesheet" href="../assets/css/util.css">
 
 ![](/assets/img/portrait_placeholder.png){: .portrait}
 name

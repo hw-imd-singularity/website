@@ -2,7 +2,7 @@
 
 layout: home
 ---
-<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/util.css">
 
 ![banner with all the logos](/assets/img/banner.png){: .align-center}
 
