@@ -12,6 +12,7 @@
 }
 
 /* Misc */
+/* horizontal line */
 hr {
   height: 2px;
   padding: 0;
@@ -19,3 +20,7 @@ hr {
   background-color: #eff0f1;
   border: 0;
 }
+
+/* don't add a border to tables */
+table { border: 0px solid transparent; }
+table td { border: 0px solid transparent; }
