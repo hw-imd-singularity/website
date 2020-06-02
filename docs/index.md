@@ -4,9 +4,9 @@ layout: home
 ---
 <link rel="stylesheet" href="assets/css/util.css">
 
-## Project SINGULARITY : Smart Agent-Based Epidemiological Model Of COVID-19 For Societies With Urban Singularities 
+![GCRF Logo](/assets/img/GCRF_Full_colour.png) | ![Heriot Watt University Logo](/assets/img/hwu.png) | ![IMD Logo](/assets/img/IMD.png)
 
-![GCRF Logo](/assets/img/GCRF_Full_colour.png) | ![Heriot Watt University Logo](/assets/img/hwu.png) | ![Partner University Logo](/assets/img/partner.png)
+## Project SINGULARITY : Smart Agent-Based Epidemiological Model Of COVID-19 For Societies With Urban Singularities 
 
 This project will design the **first agent-based epidemiological** model tailored to **Brazilian society** as a first step. Outcomes will contribute to limit uncontrolled epidemiological growth and **reduce the economic burden**. Current established Covid-19 epidemiological models ignore the **uniqueness** of some societies like in Brazil, thus reducing model accuracy in those regions. The smart model will draw on Brazilian urban characteristics to simulate the impact of non-pharmaceutical interventions. This is a first step towards a **flexible modelling approach** that could be tailored to **any specific urban region and their singularities**.
 
