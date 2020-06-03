@@ -15,7 +15,7 @@ permalink: /people/
 ---
 
 ![](/assets/img/Michael_Lones.jpg){: .portrait}
-Michael Lones (Co-I)
+[Michael Lones](http://www.macs.hw.ac.uk/~ml355/) (Co-I)
 {: .text-center}
 
 ---
