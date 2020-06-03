@@ -9,7 +9,7 @@ permalink: /people/
 # UK
 
 ![](/assets/img/Patricia_A_Vargas.jpg){: .portrait}
-Patricia A. Vargas (PI)
+[Patricia A. Vargas](https://orcid.org/0000-0002-3272-2521) (PI)
 {: .text-center}
 
 ---
@@ -21,7 +21,7 @@ Michael Lones (Co-I)
 ---
 
 ![](/assets/img/Liam_Wellacott.jpg){: .portrait}
-Liam Wellacott (Research Assistant)
+[Liam Wellacott](https://liamwellacott.github.io) (Research Assistant)
 {: .text-center}
 
 # Brazil
