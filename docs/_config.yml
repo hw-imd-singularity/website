@@ -23,7 +23,7 @@ title: SINGULARITY
 description: >- # this means to ignore newlines until "baseurl:"
   Our project will develop an epidemiological model adapted for Brazilian social, urban, and environmental reality. 
 baseurl: "/singularity" # the subpath of your site, e.g. /blog
-url: "https://liamwellacott.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.macs.hw.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: link_elsewhere
 #github_username:  jekyll
 

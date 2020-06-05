@@ -30,6 +30,8 @@ permalink: /people/
 Renan C. Moioli (PI)
 {: .text-center}
 
+--- 
+
 ![](/assets/img/portrait_placeholder.png){: .portrait}
 Cesar R. Costa (Co-I)
 {: .text-center}
